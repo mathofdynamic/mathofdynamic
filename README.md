@@ -49,7 +49,8 @@ Public repositories show only part of my work. I have also built and operated pr
 
 ## Technical focus
 
-- **Languages:** TypeScript, JavaScript, Python, Swift, C#
+- **Languages:** TypeScript, JavaScript, Python
+- **Platforms / native integrations:** Electron, macOS Accessibility / Swift integrations, Windows UI Automation / .NET integrations
 - **Application:** React, Next.js, Electron, Node.js
 - **Backend and data:** REST APIs, PostgreSQL, SQLite, Drizzle, Express, FastAPI
 - **AI systems:** LLM applications, tool calling, agent workflows, provider abstractions, computer use, knowledge retrieval
